@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paras Chand</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/a2bf19_63a638ddedeb40519133d3e5f6d685be~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-is-coding&label=Profile%20views&color=0e75b6&style=flat" alt="paras-is-coding" /> </p>
 
