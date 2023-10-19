@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/paraschand5815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paraschand5815" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/paras-chand-99b501225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paras-chand-99b501225/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/paras-chand-99b501225/](https://www.linkedin.com/in/paras-chand-99b501225/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paras-chand-99b501225/" height="30" width="40" /></a>
 <a href="https://fb.com/pa.ras.5815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pa.ras.5815" height="30" width="40" /></a>
 <a href="https://instagram.com/paras_thakure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paras_thakure" height="30" width="40" /></a>
 </p>
