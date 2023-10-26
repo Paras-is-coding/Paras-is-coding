@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/paraschand5815" target="blank"><img src="https://img.shields.io/twitter/follow/paraschand5815?logo=twitter&style=for-the-badge" alt="paraschand5815" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Frontend Development**
 
